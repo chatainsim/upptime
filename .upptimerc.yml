@@ -8,11 +8,20 @@ sites:
     icon: https://yachman.duckdns.org/static/icons/favicon.ico
   - name: Domo Easter
     url: https://domo.easter.fr
+    icon: https://domo.easter.fr/favicon.ico
   - name: Gite du Galli
     url: https://gite-du-galli.fr
+    icon: https://gite-du-galli.fr/favicon.ico
   - name: Box
     url: https://box.easter.fr
-
+    icon: https://box.easter.fr/media/img/favicon.ico
+  - name: Cloud
+    url: https://cloud.easter.fr
+    icon: https://cloud.easter.fr/media/img/favicon.ico
+  - name: TT-RSS
+    url: https://ttrss.easter.fr/
+    icon: https://ttrss.easter.fr/images/favicon.png
+   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
