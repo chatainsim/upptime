@@ -5,12 +5,12 @@ repo: upptime # The name of this repository
 sites:
   - name: Yach
     url: https://yachman.duckdns.org
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Domo Easter
+    url: https://domo.easter.fr
+  - name: Gite du Galli
+    url: https://gite-du-galli.fr
+  - name: Box
+    url: https://box.easter.fr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
