@@ -17,7 +17,7 @@ sites:
     icon: https://box.easter.fr/media/img/favicon.ico
   - name: Cloud
     url: https://cloud.easter.fr
-    icon: https://cloud.easter.fr/media/img/favicon.ico
+    icon: https://cloud.easter.fr/media/favicons/favicon.ico
   - name: TT-RSS
     url: https://ttrss.easter.fr/
     icon: https://ttrss.easter.fr/images/favicon.png
