@@ -23,19 +23,17 @@
     "icon": "https://domo.easter.fr/favicon.ico",
     "slug": "domo-easter",
     "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1729,
     "timeDay": 2648,
     "timeWeek": 1729,
     "timeMonth": 1729,
     "timeYear": 1729,
-    "dailyMinutesDown": {
-      "2022-04-27": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Gite du Galli",
@@ -43,19 +41,17 @@
     "icon": "https://gite-du-galli.fr/favicon.ico",
     "slug": "gite-du-galli",
     "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1422,
     "timeDay": 1096,
     "timeWeek": 1422,
     "timeMonth": 1422,
     "timeYear": 1422,
-    "dailyMinutesDown": {
-      "2022-04-27": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Box",
@@ -63,11 +59,11 @@
     "icon": "https://box.easter.fr/media/img/favicon.ico",
     "slug": "box",
     "status": "up",
-    "uptime": "97.83%",
+    "uptime": "97.94%",
     "uptimeDay": "95.54%",
-    "uptimeWeek": "97.83%",
-    "uptimeMonth": "97.83%",
-    "uptimeYear": "97.83%",
+    "uptimeWeek": "97.94%",
+    "uptimeMonth": "97.94%",
+    "uptimeYear": "97.94%",
     "time": 1202,
     "timeDay": 2329,
     "timeWeek": 1202,
@@ -83,19 +79,17 @@
     "icon": "https://cloud.easter.fr/media/favicons/favicon.ico",
     "slug": "cloud",
     "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.71%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 887,
     "timeDay": 964,
     "timeWeek": 887,
     "timeMonth": 887,
     "timeYear": 887,
-    "dailyMinutesDown": {
-      "2022-04-27": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TT-RSS",
