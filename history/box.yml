@@ -1,7 +1,7 @@
 url: https://box.easter.fr
-status: up
-code: 200
-responseTime: 1258
-lastUpdated: 2022-04-28T23:07:23.370Z
+status: down
+code: 502
+responseTime: 3855
+lastUpdated: 2022-04-29T01:47:09.701Z
 startTime: Mon Apr 25 2022 21:56:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
