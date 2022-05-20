@@ -5,11 +5,11 @@
     "icon": "https://yachman.duckdns.org/static/icons/favicon.ico",
     "slug": "yach",
     "status": "up",
-    "uptime": "99.04%",
+    "uptime": "99.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.04%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.07%",
     "time": 567,
     "timeDay": 348,
     "timeWeek": 446,
@@ -25,9 +25,9 @@
     "url": "https://domo.easter.fr",
     "icon": "https://domo.easter.fr/favicon.ico",
     "slug": "domo-easter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 1568,
     "timeMonth": 1694,
     "timeYear": 1694,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-20": 0
+    }
   },
   {
     "name": "Gite du Galli",
@@ -61,12 +63,12 @@
     "url": "https://box.easter.fr",
     "icon": "https://box.easter.fr/media/img/favicon.ico",
     "slug": "box",
-    "status": "up",
-    "uptime": "98.57%",
-    "uptimeDay": "94.42%",
+    "status": "down",
+    "uptime": "98.61%",
+    "uptimeDay": "94.41%",
     "uptimeWeek": "98.57%",
-    "uptimeMonth": "98.57%",
-    "uptimeYear": "98.57%",
+    "uptimeMonth": "98.61%",
+    "uptimeYear": "98.61%",
     "time": 1595,
     "timeDay": 1774,
     "timeWeek": 1728,
@@ -87,15 +89,15 @@
     "url": "https://cloud.easter.fr",
     "icon": "https://cloud.easter.fr/media/favicons/favicon.ico",
     "slug": "cloud",
-    "status": "up",
-    "uptime": "98.02%",
-    "uptimeDay": "88.94%",
-    "uptimeWeek": "98.40%",
-    "uptimeMonth": "98.02%",
-    "uptimeYear": "98.02%",
+    "status": "down",
+    "uptime": "98.08%",
+    "uptimeDay": "88.93%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "98.08%",
+    "uptimeYear": "98.08%",
     "time": 1368,
     "timeDay": 2266,
-    "timeWeek": 1264,
+    "timeWeek": 1307,
     "timeMonth": 1368,
     "timeYear": 1368,
     "dailyMinutesDown": {
@@ -114,7 +116,7 @@
     "url": "https://ttrss.easter.fr/",
     "icon": "https://ttrss.easter.fr/images/favicon.png",
     "slug": "tt-rss",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -125,6 +127,8 @@
     "timeWeek": 1022,
     "timeMonth": 945,
     "timeYear": 945,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-20": 0
+    }
   }
 ]
